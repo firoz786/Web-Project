@@ -3,19 +3,29 @@ body{
 }
 .top{
   background-color:#e4fbff;
-  margin-bottom: 20px;
+  width:200px;
+  height:200px;
+  padding:20px;
+  border-style: solid;
+  border-width:10px;
 
 }
 .middle{
   background-color:blue;
+  margin-left:260px;
   width:200px;
   height:200px;
+  border-style: solid;
+  border-width:20px;
 
 }
 .bottom{
   background-color:red;
+  margin-left:500px;
   width:200px;
   height:200px;
+  border-style: solid;
+  border-width:10px;
 
 }
 h1{
