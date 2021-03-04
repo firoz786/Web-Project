@@ -1,8 +1,22 @@
 body{
   margin: 0px;
 }
-div{
+.top{
   background-color:#e4fbff;
+  margin-bottom: 20px;
+
+}
+.middle{
+  background-color:blue;
+  width:200px;
+  height:200px;
+
+}
+.bottom{
+  background-color:red;
+  width:200px;
+  height:200px;
+
 }
 h1{
   margin-block:0em;
