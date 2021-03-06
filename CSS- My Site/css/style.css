@@ -2,6 +2,7 @@ body {
   margin:0;
   text-align: center;
   background-color:#EAF6f6;
+  font-family: 'Merienda', cursive,sans-serif;
 }
 
 .top-conntainer {
@@ -20,14 +21,14 @@ h1 {
 }
 .top-cloud{
   position: absolute;
-  right:300px;
+  right:400px;
   top:50px;
 
 }
 .bottom-cloud{
   position: absolute;
     bottom:300px;
-    left: 300px;
+    left: 450px;
 }
 
 
